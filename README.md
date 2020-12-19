@@ -1,4 +1,4 @@
-# Sonic's Fun and Easy Adventure Source Code
+# Sonic's Fun and Easy Adventure
 
 Mainly just here for archival, but feel free to take a gander at it if you like.
 
